@@ -1,4 +1,5 @@
-# Book Recommender System (A ml-book-similarity-recommender)
+# Book Recommender System
+A ML based Book Similarity Recommender for promoting books based on Book selling platform 
 
 # Overview
 
