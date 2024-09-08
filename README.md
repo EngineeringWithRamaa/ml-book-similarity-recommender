@@ -1,7 +1,7 @@
 # Book Recommender System
 * A ML based Book Similarity Recommender for promoting books on digital platforms
 * Book recommending systems drive business growth by boosting sales and revenue through personalized suggestions
-* By recommending relevant and complementary books, these systems enhance the shopping experience, making it more enjoyable and tailored to individual preferences
+* By recommending relevant and complementary books, making shopping experience more enjoyable and tailored to individuals
 * This personalization not only improves customer satisfaction but also facilitates the discovery of new books, leading to greater overall engagement and loyalty
 
 # Overview
