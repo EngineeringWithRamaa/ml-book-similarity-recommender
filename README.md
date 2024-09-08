@@ -17,10 +17,10 @@
 
 # Technologies Used
 
-* Bag of Words Model: For tokenizing and converting book text data into numerical vectors
-* DataStax Astra DB: A cloud-native NoSQL database service for storing and managing vector data with minimal operational overhead
-* Spring Boot: Framework for building the RESTful API to interact with the recommendation system
-* Apache Cassandra: Underlying database technology for Astra DB, known for its high scalability and performance
+* **Bag of Words Model:** For tokenizing and converting book text data into numerical vectors
+* **DataStax Astra DB:** A cloud-native NoSQL database service for storing and managing vector data with minimal operational overhead
+* **Spring Boot:** Framework for building the RESTful API to interact with the recommendation system
+* **Apache Cassandra:** Underlying database technology for Astra DB, known for its high scalability and performance
 * Java: Programming language used for implementing backend logic
 
 # How It Works
