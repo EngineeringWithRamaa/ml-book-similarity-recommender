@@ -33,6 +33,9 @@ A ML based Book Similarity Recommender for promoting books based on Book selling
 * Description: Retrieves book recommendations similar to the one specified by {bookName}
 * Response: A list of recommended books or a 404 error if no recommendations are found
 
+# Output
+![alt text](https://github.com/TechWithRamaa/ml-book-similarity-recommender/blob/main/Book-Recommendation.png)
+
 # Setup and Installation
 
 * Clone the repository
