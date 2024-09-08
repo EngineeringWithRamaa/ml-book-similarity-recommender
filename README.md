@@ -35,9 +35,9 @@ Return Recommendations: The system returns a list of the top 3 most similar book
 
 # Setup and Installation
 
-Clone the repository
-Configure Astra DB credentials and set up your environment
-Build and run the Spring Boot application to start the recommender service
+* Clone the repository
+* Configure Astra DB credentials and set up your environment
+* Build and run the Spring Boot application to start the recommender service
 
 # Contribution
 Contributions to enhance the recommender system or add new features are welcome! Please fork the repository, make your changes, and submit a pull request
