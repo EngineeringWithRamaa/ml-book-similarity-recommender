@@ -29,9 +29,9 @@ Return Recommendations: The system returns a list of the top 3 most similar book
 
 # API Endpoint
 
-GET /promotions/books/{bookName}
-Description: Retrieves book recommendations similar to the one specified by {bookName}
-Response: A list of recommended books or a 404 error if no recommendations are found
+* GET /promotions/books/{bookName}
+* Description: Retrieves book recommendations similar to the one specified by {bookName}
+* Response: A list of recommended books or a 404 error if no recommendations are found
 
 # Setup and Installation
 
