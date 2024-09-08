@@ -26,7 +26,7 @@ Storing Vectors in Astra DB: These vectors are stored in Astra DB, allowing for 
 Similarity Search: When a user requests recommendations for a specific book, the system retrieves the corresponding vector and performs an approximate nearest neighbor search to find and recommend similar books
 Return Recommendations: The system returns a list of the top 3 most similar books based on vector similarity, excluding the original book from the results
 
-#API Endpoint
+# API Endpoint
 
 GET /promotions/books/{bookName}
 Description: Retrieves book recommendations similar to the one specified by {bookName}
