@@ -1,19 +1,19 @@
 # Book Recommender System
 * A ML based Book Similarity Recommender for promoting books on digital platforms
 * Book recommending systems drive business growth by boosting sales and revenue through personalized suggestions
-* By recommending relevant and complementary books, making shopping experience more enjoyable and tailored to individuals
+* By recommending relevant and complementary books, it makes shopping experience more enjoyable and tailored to individuals
 * This personalization also facilitates the discovery of new books, leading to greater overall engagement and loyalty
 
 # Overview
 
-  * Book Recommender is designed to recommend books based on their textual content and vector similarity
+  * Book Recommender is designed to **recommend books based on their textual content and vector similarity**
   * This project leverages the Bag of Words (BoW) model for tokenization and stores book data as vectors in DataStax Astra DB, a cloud - native database service optimized for scalable and efficient data management
 
 # Key Features
 
-  * Textual Analysis with Bag of Words: Utilizes the Bag of Words model to tokenize and represent book descriptions and categories as vectors
+  * Textual Analysis with Bag of Words: Utilizes the **Bag of Words model to tokenize** and represent book descriptions and categories as **vectors**
   * Vector Storage: Stores book vectors in Astra DB for efficient retrieval and similarity searching
-  * Similar Book Recommendations: Recommends books similar to a given book based on vector similarity, using Approximate Nearest Neighbors (ANN) search
+  * Similar Book Recommendations: Recommends books similar to a given book based on **vector similarity**, using **Approximate Nearest Neighbors (ANN) search**
 
 # Technologies Used
 
@@ -32,7 +32,7 @@
 
 # API Endpoint
 
-* GET /promotions/books/{bookName}
+* **GET /promotions/books/{bookName}**
 * Description: Retrieves book recommendations similar to the one specified by {bookName}
 * Response: A list of recommended books or a 404 error if no recommendations are found
 
