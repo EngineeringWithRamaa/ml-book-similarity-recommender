@@ -6,7 +6,7 @@
 
 # Overview
 
-  * The Book Recommender System is a modern application designed to recommend books based on their textual content and vector similarity
+  * Book Recommender is designed to recommend books based on their textual content and vector similarity
   * This project leverages the Bag of Words (BoW) model for tokenization and stores book data as vectors in DataStax Astra DB, a cloud - native database service optimized for scalable and efficient data management
 
 # Key Features
